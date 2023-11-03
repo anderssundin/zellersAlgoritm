@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\xampp\\htdocs\\DT071G Programmering i Csharp dot net\\Moment 1\\whenWasIBorn\\whenWasIBorn\\whenWasIBorn.csproj": {}
+    "C:\\xampp\\htdocs\\DT071G Programmering i Csharp dot net\\Moment 2\\whenWasIBorn\\zellersAlgoritm\\whenWasIBorn\\whenWasIBorn.csproj": {}
   },
   "projects": {
-    "C:\\xampp\\htdocs\\DT071G Programmering i Csharp dot net\\Moment 1\\whenWasIBorn\\whenWasIBorn\\whenWasIBorn.csproj": {
+    "C:\\xampp\\htdocs\\DT071G Programmering i Csharp dot net\\Moment 2\\whenWasIBorn\\zellersAlgoritm\\whenWasIBorn\\whenWasIBorn.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\xampp\\htdocs\\DT071G Programmering i Csharp dot net\\Moment 1\\whenWasIBorn\\whenWasIBorn\\whenWasIBorn.csproj",
+        "projectUniqueName": "C:\\xampp\\htdocs\\DT071G Programmering i Csharp dot net\\Moment 2\\whenWasIBorn\\zellersAlgoritm\\whenWasIBorn\\whenWasIBorn.csproj",
         "projectName": "whenWasIBorn",
-        "projectPath": "C:\\xampp\\htdocs\\DT071G Programmering i Csharp dot net\\Moment 1\\whenWasIBorn\\whenWasIBorn\\whenWasIBorn.csproj",
+        "projectPath": "C:\\xampp\\htdocs\\DT071G Programmering i Csharp dot net\\Moment 2\\whenWasIBorn\\zellersAlgoritm\\whenWasIBorn\\whenWasIBorn.csproj",
         "packagesPath": "C:\\Users\\ander\\.nuget\\packages\\",
-        "outputPath": "C:\\xampp\\htdocs\\DT071G Programmering i Csharp dot net\\Moment 1\\whenWasIBorn\\whenWasIBorn\\obj\\",
+        "outputPath": "C:\\xampp\\htdocs\\DT071G Programmering i Csharp dot net\\Moment 2\\whenWasIBorn\\zellersAlgoritm\\whenWasIBorn\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ander\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -51,7 +51,7 @@ while (!passedChecks) {
 
 // Split input string into century, year, month and day
 string century = onlyDate.Substring(0, 2);
-string year = onlyDate.Substring(2, 2);
+string year = onlyDate.Substring(0, 4);
 string month = onlyDate.Substring(5, 2);
 string day = onlyDate.Substring(8, 2);
 
@@ -60,10 +60,7 @@ int numCentury = int.Parse(century);
 int numYear = int.Parse(year);
 int numMonth = int.Parse(month);
 int numDay = int.Parse(day);
-int weekDay;
 
-// Day of week array
-string[] dayOfWeek = { "Söndag", "Måndag", "Tisdag","Onsdag", "Torsdag", "Fredag","Lördag" };
 
 if (numMonth < 3)
 {
@@ -80,5 +77,33 @@ int j = numYear / 100;
 int h = q + 13 * (m + 1) / 5 + k + k / 4 + j / 4 + 5 * j;
 
 h = h % 7;
-// Write day of week
-Console.WriteLine(dayOfWeek[h]);
+switch (h)
+{
+    case 0:
+        Console.WriteLine("Anget datum var på en Lördag");
+        break;
+
+    case 1:
+        Console.WriteLine("Anget datum var på en Söndag");
+        break;
+
+    case 2:
+        Console.WriteLine("Anget datum var på en Måndag");
+        break;
+
+    case 3:
+        Console.WriteLine("Anget datum var på en Tisdag");
+        break;
+
+    case 4:
+        Console.WriteLine("Anget datum var på en Onsdag");
+        break;
+
+    case 5:
+        Console.WriteLine("Anget datum var på en Torsdag");
+        break;
+
+    default:
+        Console.WriteLine("Anget datum var på en Fredag");
+        break;
+}
