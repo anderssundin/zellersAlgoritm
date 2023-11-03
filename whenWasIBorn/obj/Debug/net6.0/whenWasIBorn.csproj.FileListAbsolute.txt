@@ -1,0 +1,14 @@
+C:\xampp\htdocs\DT071G Programmering i Csharp dot net\Moment 1\whenWasIBorn\whenWasIBorn\bin\Debug\net6.0\whenWasIBorn.exe
+C:\xampp\htdocs\DT071G Programmering i Csharp dot net\Moment 1\whenWasIBorn\whenWasIBorn\bin\Debug\net6.0\whenWasIBorn.deps.json
+C:\xampp\htdocs\DT071G Programmering i Csharp dot net\Moment 1\whenWasIBorn\whenWasIBorn\bin\Debug\net6.0\whenWasIBorn.runtimeconfig.json
+C:\xampp\htdocs\DT071G Programmering i Csharp dot net\Moment 1\whenWasIBorn\whenWasIBorn\bin\Debug\net6.0\whenWasIBorn.dll
+C:\xampp\htdocs\DT071G Programmering i Csharp dot net\Moment 1\whenWasIBorn\whenWasIBorn\bin\Debug\net6.0\whenWasIBorn.pdb
+C:\xampp\htdocs\DT071G Programmering i Csharp dot net\Moment 1\whenWasIBorn\whenWasIBorn\obj\Debug\net6.0\whenWasIBorn.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\DT071G Programmering i Csharp dot net\Moment 1\whenWasIBorn\whenWasIBorn\obj\Debug\net6.0\whenWasIBorn.AssemblyInfoInputs.cache
+C:\xampp\htdocs\DT071G Programmering i Csharp dot net\Moment 1\whenWasIBorn\whenWasIBorn\obj\Debug\net6.0\whenWasIBorn.AssemblyInfo.cs
+C:\xampp\htdocs\DT071G Programmering i Csharp dot net\Moment 1\whenWasIBorn\whenWasIBorn\obj\Debug\net6.0\whenWasIBorn.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\DT071G Programmering i Csharp dot net\Moment 1\whenWasIBorn\whenWasIBorn\obj\Debug\net6.0\whenWasIBorn.dll
+C:\xampp\htdocs\DT071G Programmering i Csharp dot net\Moment 1\whenWasIBorn\whenWasIBorn\obj\Debug\net6.0\refint\whenWasIBorn.dll
+C:\xampp\htdocs\DT071G Programmering i Csharp dot net\Moment 1\whenWasIBorn\whenWasIBorn\obj\Debug\net6.0\whenWasIBorn.pdb
+C:\xampp\htdocs\DT071G Programmering i Csharp dot net\Moment 1\whenWasIBorn\whenWasIBorn\obj\Debug\net6.0\whenWasIBorn.genruntimeconfig.cache
+C:\xampp\htdocs\DT071G Programmering i Csharp dot net\Moment 1\whenWasIBorn\whenWasIBorn\obj\Debug\net6.0\ref\whenWasIBorn.dll
