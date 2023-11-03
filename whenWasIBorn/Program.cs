@@ -6,7 +6,7 @@ DateTime today = DateTime.Now;
 DateTime parsedInputDate;
 string inputDate = null;
 string onlyDate = null;
-bool passedChecks = false;
+bool passedChecks = false; 
 
 // Ask for date of birth
 Console.WriteLine("Ange ditt födelsedatum i formatet: YYYY-MM-DD");
