@@ -49,14 +49,14 @@ while (!passedChecks) {
 
 //Calculations
 
-// Split input string into century, year, month and day
-string century = onlyDate.Substring(0, 2);
+// Split input string intoyear, month and day
+
 string year = onlyDate.Substring(0, 4);
 string month = onlyDate.Substring(5, 2);
 string day = onlyDate.Substring(8, 2);
 
 // Convert from string to int
-int numCentury = int.Parse(century);
+
 int numYear = int.Parse(year);
 int numMonth = int.Parse(month);
 int numDay = int.Parse(day);
